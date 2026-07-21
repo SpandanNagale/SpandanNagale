@@ -4,7 +4,8 @@ AI/ML Engineer specializing in **RAG pipelines, LangChain, multi-agent systems, 
 
 🔭 **Currently:** Actively looking for **AI/ML Engineer** and **GenAI/LLM Engineer** roles — also open to freelance work.
 
-📫 **Reach me:** [add your email or LinkedIn here]
+📫 **Reach me:** Email : spandan4844@gmail.com  LinkedIn : https://www.linkedin.com/in/spandan-nagale-5a38a3290/
+                       
 
 ---
 
