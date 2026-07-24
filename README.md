@@ -20,7 +20,7 @@ Production-ready multi-agent research API built with CrewAI + Gemma 4, featuring
 **[ML-Agent](https://github.com/SpandanNagale/ML-Agent)**
 AI agent that automatically builds, trains, and self-heals end-to-end ML pipelines from a single problem statement, using local LLMs via Ollama.
 
-**[Jarvis](https://github.com/SpandanNagale/Jarvis)**
+**[ARIA](https://github.com/SpandanNagale/ARIA)**
 Fully local, JARVIS-style voice assistant — wake-word detection, GPU-accelerated speech-to-text, local LLM reasoning (Ollama/Qwen), persistent memory (ChromaDB), and tool-calling, built end-to-end on Windows.
 
 
